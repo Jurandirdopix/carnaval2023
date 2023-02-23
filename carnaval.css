@@ -1,0 +1,89 @@
+head{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    border: 5px solid;
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 38.5%;
+    background-color: #ffff94;
+    border-color: #ffff80;
+}
+
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.img1{
+    width: 450px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.img2{
+    width: 550px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.img3{
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+}
+
+.img5{
+    width: 450px;
+    height: 320px;
+    border-radius: 15px;
+}
+
+.img6{
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+.img7{
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.img8{
+    width: 500px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.img9{
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+#topo{
+    text-decoration: none;
+    color: white;
+    background-color: gray; 
+    padding: 10px; 
+    position: fixed; 
+    right: 10px;
+    bottom: 10px; 
+    box-shadow: 3px 3px 16px #333;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
